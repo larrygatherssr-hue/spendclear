@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://larrygatherssr-hue.github.io/spendclear/sitemap.xml
